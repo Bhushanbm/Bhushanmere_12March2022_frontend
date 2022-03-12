@@ -1,0 +1,6 @@
+List some of the disadvantages of JavaScript.
+-Browser Support. JavaScript is sometimes interpreted differently by different browsers. This makes it somewhat difficult to write cross-browser code.
+-Reading and writing of files is not allowed.
+-No support for multithreading.
+-Reading and writing of files is not allowed.
+-No support for networking applications.

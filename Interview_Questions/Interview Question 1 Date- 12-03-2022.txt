@@ -1,0 +1,4 @@
+What is javascript?
+-Javascript improves the user experience of the web pahe by converting it from a static page into an interactive one.
+-Javascript add behaviour to web pages.
+-Javascript is a text based programming language used both on client side and server side that allows you to make web interactive.

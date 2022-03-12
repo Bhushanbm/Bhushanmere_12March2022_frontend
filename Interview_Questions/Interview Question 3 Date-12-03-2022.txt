@@ -1,0 +1,5 @@
+ write four Features of JavaScript ?
+-Client side-validation
+-Functional style
+-Object oriented programming language
+- light weight scripting language
